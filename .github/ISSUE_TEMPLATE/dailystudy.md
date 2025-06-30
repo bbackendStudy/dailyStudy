@@ -1,7 +1,7 @@
 ---
 name: dailyStudy
 about: 공부 기록
-title: ''
+title: "[YYYY-MM-DD] name"
 labels: ''
 assignees: ''
 
